@@ -1,0 +1,6 @@
+<resources>
+    <!-- added login, and username strings -->
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+</resources>
